@@ -2,29 +2,58 @@
 
 To allocate the number of lessons for each unit one can use the percentage given by college board for parts of the final exam. This is converted into a timeframe of 75 indivitual lessons, since the AP exam is written 5-6 weeks before the school year ends during exam week, so all teaching should be finished before that. With 2.5 days teaching per week the 180 days equal 90 teaching days. Minus 6 weeks some 75 days or lessons remain. Distributed by percentage gives:
 
-| Topic                           | lessons | exam percent |
-| ------------------------------- | ------- | ------------ |
-| Kinematics                      | 13      | 16           |
-| Dynamics                        | 15      | 18           |
-| Circular Motion and Gravitation | 6       | 6            |
-| Energy                          | 15      | 24           |
-| Momentum                        | 10      | 16           |
-| Simple Harmonic Motion          | 4       | 4            |
-| Torque and Rotational Motion    | 12      | 16           |
-| Sum                             | 75      | 100          |
+|              Topic              | lessons | exam percent |
+|---------------------------------|:-------:|:------------:|
+| Kinematics                      |    13   |      16      |
+| Dynamics                        |    15   |      18      |
+| Circular Motion and Gravitation |    6    |       6      |
+| Energy                          |    15   |      24      |
+| Momentum                        |    10   |      16      |
+| Simple Harmonic Motion          |    4    |       4      |
+| Torque and Rotational Motion    |    12   |      16      |
+| Sum                             |    75   |      100     |
+
+# Standards
+## Science Practices (25)
+### Modeling (5)
+### Mathematical Routines (3)
+### Scientific Questioning (3)
+### Experimental Methods (4)
+
+## Big Ideas
+- Systems
+- Fields
+- Force
+- Change
+- Conversation
+- Waves
+
+|                                   | Unit 1 | Unit 2 | Unit 3 | Unit 4 | Unit 5 | Unit 6 | Unit 7 |
+|-----------------------------------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+| AP.Physics1.BigIdeas.Systems      |        |    ✅   |    ✅   |        |        |        |        |
+| AP.Physics1.BigIdeas.Fields       |        |    ✅   |    ✅   |        |        |        |        |
+| AP.Physics1.BigIdeas.Force        |    ✅   |    ✅   |    ✅   |    ✅   |    ✅   |    ✅   |    ✅   |
+| AP.Physics1.BigIdeas.Change       |    ✅   |    ✅   |    ✅   |    ✅   |    ✅   |        |    ✅   |
+| AP.Physics1.BigIdeas.Conservation |        |        |        |    ✅   |    ✅   |    ✅   |    ✅   |
+| AP.Physics1.BigIdeas.Waves        |        |        |        |        |        |        |        |
+
+## Content Concepts
+
+1. 1 Position, Velocity, and Acceleration
+1. 2 Representations of Motion
+2. 1 Systems
+2. 2 The Gravitational Field
+2. 3 Contact Forces
+2. 4 Newton’s First Law
+2. 5 Newton’s Third Law and Free-Body-Diagrams
+2. 6 Newton’s Second Law
+2. 7  Applications of Newton’s Second Law
+3. 1 Vector Fields
+3. 2 Fundamental Forces
+3. 3 Gravitational and Electric Forces
 
 
-| **| Topic                           | lessons | exam percent |** |
-|------------------------------------------------------------------|
-| | ------------------------------- | ------- | ------------ |     |
-| | Kinematics                      | 13      | 16           |     |
-| | Dynamics                        | 15      | 18           |     |
-| | Circular Motion and Gravitation | 6       | 6            |     |
-| | Energy                          | 15      | 24           |     |
-| | Momentum                        | 10      | 16           |     |
-| | Simple Harmonic Motion          | 4       | 4            |     |
-| | Torque and Rotational Motion    | 12      | 16           |     |
-| | Sum                             | 75      | 100          |     |
+
 
 
 # [1 Kinematics](1_kinematics)
