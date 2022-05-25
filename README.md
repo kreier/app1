@@ -4,7 +4,7 @@ Documentation of 2021-2022 at SSIS
 
 In 2021 the number of topics in this AP course was reduced from 10 to 7. Waves and electricity are no longer part of this course. The remaining 7 topics and their subtopics are:
 
-# 1 Kinematics
+# [1 Kinematics](1_kinematics)
 
 - 1.1 Position, Velocity and Acceleration
 - 1.2 Representations of Motion
@@ -54,4 +54,14 @@ In 2021 the number of topics in this AP course was reduced from 10 to 7. Waves a
 - 7.2 Torque and Angular Acceleration
 - 7.3 Angular Momentum and Torque
 - 7.4 Conservation of Angular Momentum
+
+# 8 Labs
+
+More in [the folder](8_labs).
+
+# 9 General Information
+
+Outline, pacing, standards.
+
+
 
